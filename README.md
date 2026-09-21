@@ -4,9 +4,10 @@
 
 <br/><br/>
 
-**Desarrollador en España** 🇪🇸 · Linux · IA local (Ollama) · extensiones VS Code · bots Discord · servidores Minecraft
+**Desarrollador en España** 🇪🇸 · Linux · IA local (Ollama) · [**CloudTerm**](https://github.com/pilahito/CloudTerm) · extensiones VS Code · bots Discord
 
 [![GitHub followers](https://img.shields.io/github/followers/pilahito?style=flat-square&logo=github)](https://github.com/pilahito)
+[![CloudTerm](https://img.shields.io/github/v/release/pilahito/CloudTerm?label=CloudTerm&style=flat-square&color=00e5ff)](https://github.com/pilahito/CloudTerm)
 [![Turing Linux](https://img.shields.io/github/v/release/pilahito/turing-smart-screen-linux?label=turing-linux&style=flat-square&color=15B0E7)](https://github.com/pilahito/turing-smart-screen-linux/releases)
 [![Local Copilot](https://img.shields.io/github/v/release/pilahito/ollama-copilot-vscode?label=local-copilot&style=flat-square&color=F8B133)](https://github.com/pilahito/ollama-copilot-vscode/releases)
 
@@ -14,7 +15,22 @@
 
 ---
 
-## ⭐ Proyectos destacados
+## ⭐ Proyecto principal
+
+### 🖥️ [CloudTerm](https://github.com/pilahito/CloudTerm)
+
+Cliente **SSH y SFTP** de escritorio: terminal, gestor de archivos, Pixel Agents y asistente IA. Sin cuenta obligatoria y sin servidores intermedios.
+
+![Vídeo de ejemplo de CloudTerm](https://github.com/pilahito/CloudTerm/raw/main/docs/capturas/ejemplo.mp4)
+
+```bash
+git clone https://github.com/pilahito/CloudTerm.git
+cd CloudTerm && npm install && npm run tauri dev
+```
+
+---
+
+## ⭐ Otros proyectos
 
 ### 🤖 [ollama-copilot-vscode](https://github.com/pilahito/ollama-copilot-vscode) — Local Copilot
 
@@ -57,6 +73,7 @@ Packs YAML corregidos para **FishRewards** en Paper 26.1 (efectos válidos, vali
 
 | Repo | Qué hace |
 |------|----------|
+| [**CloudTerm**](https://github.com/pilahito/CloudTerm) | Cliente SSH/SFTP de escritorio — terminal, archivos, Pixel Agents |
 | [**ollama-copilot-vscode**](https://github.com/pilahito/ollama-copilot-vscode) | Copilot local — Chat, Profesor, Ayudante, Ollama Build |
 | [**grok-build-cli**](https://github.com/pilahito/grok-build-cli) | CLI terminal con Ollama (español) |
 | [**ai-ssh-agent**](https://github.com/pilahito/ai-ssh-agent) | Agente IA para SSH y paneles AMP |
@@ -69,6 +86,7 @@ Packs YAML corregidos para **FishRewards** en Paper 26.1 (efectos válidos, vali
 </p>
 
 <p align="center">
+  <a href="https://github.com/pilahito/CloudTerm">🖥️ CloudTerm</a> ·
   <a href="https://github.com/pilahito/ollama-copilot-vscode">🤖 Local Copilot</a> ·
   <a href="https://github.com/pilahito/turing-smart-screen-linux">🐧 Turing Linux</a> ·
   <a href="https://www.paypal.com/paypalme/pilahito">☕ Apoyar</a>
