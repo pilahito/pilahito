@@ -21,7 +21,7 @@
 
 Cliente **SSH y SFTP** de escritorio: terminal, gestor de archivos, Pixel Agents y asistente IA. Sin cuenta obligatoria y sin servidores intermedios.
 
-![Vídeo de ejemplo de CloudTerm](https://github.com/pilahito/CloudTerm/raw/main/docs/capturas/ejemplo.mp4)
+[![Vídeo de ejemplo de CloudTerm](cloudterm-ejemplo.gif)](https://github.com/pilahito/CloudTerm)
 
 ```bash
 git clone https://github.com/pilahito/CloudTerm.git
